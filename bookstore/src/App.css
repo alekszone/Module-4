@@ -1,0 +1,22 @@
+html {
+  background-color: black;
+}
+nav.navbar {
+  background-color: blue !important;
+}
+div.jumbotron  {
+  background-color: teal;
+  color: white;
+}
+.main {
+  background-color:blue;
+}
+.footer {
+  background-color: yellow !important;
+  color:black;
+  height: 100px !important;
+}
+#form{
+  width: 100 !important;
+}
+
